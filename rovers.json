@@ -37,15 +37,27 @@
       "rover":"0x1a7de6d59973Bd63bF8b1A4819dE6003d12eb10C"
    },
    {
-      "name":"GODS UNCHAINED",
-      "url":"https://godsunchained.com/",
-      "token":null,
-      "rover":"0xeA0e60a29384AB957212D406AB7Abc5Ac0bDF95b"
-   },
-   {
       "name":"RURAL",
       "url":"https://www.youtube.com/watch?v=_CF3SHyFjZU&list=PL7C67B009285B4BAA&index=37",
       "token":"0xf56ab64bd31db771fd1f0e92164b16aebb8d5d68",
       "rover":"0x9760e45877095add0969532ddc8de35dc584509c"
-   }  
+   },
+   {
+      "name":"COIN",
+      "url":"https://coinartist.io/",
+      "token":"0x87b008E57F640D94Ee44Fd893F0323AF933F9195",
+      "rover":"0x840d8E32d043563dC50bD8482F86703069A7F3Fe"
+   },
+   {
+      "name":"YTHO",
+      "url":"https://www.ytho.online/",
+      "token":"0x48cf0E2eCA22EAe0AD33feE16A5CB6E62207A8Ab",
+      "rover":"0xb47d906a77331b5333e68eBBa2959028Fd1038b6"
+   },
+   {
+      "name":"NDR",
+      "url":"https://noderunners.io/",
+      "token":"0x739763a258640919981F9bA610AE65492455bE53",
+      "rover":"0x7b8B81f19c5508DEaE29E28d5c8d47C9f055E19e"
+   }
 ]
